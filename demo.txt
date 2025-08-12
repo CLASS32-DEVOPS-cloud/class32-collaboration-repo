@@ -6,3 +6,4 @@ checking versions control status
 
 # git status
 # git add 
+# I am fascinated with the idea of learning and practicing git prof. prince
